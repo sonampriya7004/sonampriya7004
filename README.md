@@ -14,7 +14,7 @@ Programming Languages
 - C/C++
 Core Skills
 - Data Structures & Algorithms
-- Machine Learnin
+- Machine Learning
 - Artificial Intelligence
 - Object-Oriented Programming
 - Git & GitHub
